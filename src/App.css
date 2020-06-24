@@ -40,6 +40,7 @@
  
  }
  .square:active {
+ 	/* eslint-disable-next-line*/
   background-image: linear-gradient(bottom, rgb(88,154,204) 0%, rgb(90,150,199) 100%);
   background-image: -o-linear-gradient(bottom, rgb(88,154,204) 0%, rgb(90,150,199) 100%);
   background-image: -moz-linear-gradient(bottom, rgb(88,154,204) 0%, rgb(90,150,199) 100%);
